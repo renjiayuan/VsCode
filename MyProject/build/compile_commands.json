@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/cpan wenjian/Desktop/MyProject/build",
+  "command": "E:\\MinGw\\install\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\my_cmake_swap.dir\\main.cpp.obj -c \"E:\\cpan wenjian\\Desktop\\MyProject\\main.cpp\"",
+  "file": "E:/cpan wenjian/Desktop/MyProject/main.cpp"
+},
+{
+  "directory": "E:/cpan wenjian/Desktop/MyProject/build",
+  "command": "E:\\MinGw\\install\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\my_cmake_swap.dir\\swap.cpp.obj -c \"E:\\cpan wenjian\\Desktop\\MyProject\\swap.cpp\"",
+  "file": "E:/cpan wenjian/Desktop/MyProject/swap.cpp"
+}
+]

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/cpan wenjian/Desktop/MyProject/main.cpp
+iostream
+-
+swap.h
+E:/cpan wenjian/Desktop/MyProject/swap.h
+
+E:/cpan wenjian/Desktop/MyProject/swap.cpp
+swap.h
+E:/cpan wenjian/Desktop/MyProject/swap.h
+
+E:/cpan wenjian/Desktop/MyProject/swap.h
+
