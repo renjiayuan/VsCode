@@ -1,1 +1,0 @@
-This repository will show some important things of vscode.
